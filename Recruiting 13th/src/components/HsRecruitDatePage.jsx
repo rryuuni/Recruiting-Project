@@ -44,7 +44,7 @@ const HsRecruitDatePage = () => {
         <RecruitDateTitle>모집일정</RecruitDateTitle>
         <img
           style={{ width: "80%" }}
-          src="./public/images/모집 일정.png"
+          src="/images/모집 일정.png"
           alt="사진없음"
         />
       </RecruitDateContainer>

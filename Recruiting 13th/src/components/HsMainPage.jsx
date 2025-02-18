@@ -165,7 +165,7 @@ const HsMainPage = () => {
           <br /> 사자처럼
           <MainPageUnivName>SKHU</MainPageUnivName>
         </MainPageTitle>
-        <MainImage src="./public/images/3D사자 1.png" alt="사진없음" />
+        <MainImage src="/images/3D사자 1.png" alt="사진없음" />
       </MainContent>
 
       <ApplyContainer>
